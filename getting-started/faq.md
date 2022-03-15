@@ -6,16 +6,16 @@ description: >-
 
 # FAQ
 
-## **Questions about** AlbertCoin
+## **Questions about** AlbertCoin (LBRT)
 
-### **What is AlbertCoin and what makes it different?**
+### **What is AlbertCoin (LBRT) and what makes it different?**
 
-AlbertCoin is a new token and also a plaatform built on Solana where users can swap, trade and provide liquidity to earn yield on digital assets. However, unlike other AMM platforms, Raydium's AMM provides on-chain liquidity to Serum's central limit order book, meaning that Raydium’s users and liquidity pools have access to the order flow and liquidity of the entire Serum ecosystem, and vice versa.&#x20;
+**AlbertCoin** (LBRT) is a new token and soon a platform built on Solana where users can create a dedicated environment for their needs.&#x20;
 
-Raydium’s Best Price Swaps feature determines whether swapping within a liquidity pool or through the Serum order book will provide the best price for users.&#x20;
+Families will have one or more Managers (parents) who will have the right to request more liquidity (LBRT) and users (children) who will have the power to trade the liquidity back and forth to the managers.
 
-Not only can you trade and swap on Raydium, but there are a number of ways you can earn additional rewards while farming liquidity pools and staking. Raydium’s AcceleRaytor sets out to drive the growth of the Solana Ecosystem, serving as a launchpad for innovative projects to raise capital and drive initial liquidity. Learn how to participate in an AccleRaytor IDO [here](https://raydium.gitbook.io/raydium/acceleraytor/how-to-participate).
+A similar system will be available for schools where the Managers (teachers) will distribute the liquidity based on pre-agreed norms, and the users (pupils) will earn the coins. They will then be able to use it within the school system or within their family system that has adopted it.
 
 ### **Why build on Solana?**
 
-Solana stands out in DeFi with lightning-fast speeds of up to 65,000 transactions per second, 400ms block times, and less than $0.01 average transaction fees. Raydium believes in the Solana vision and that it will power the future of De-Fi. Read more [here](https://medium.com/solana-labs/why-solana-8c927d58ba06).&#x20;
+Solana stands out in DeFi with lightning-fast speeds of up to 65,000 transactions per second, 400ms block times, and less than $0.01 average transaction fees. AlbertCoin believes in the Solana vision and that it will power the future of De-Fi. Read more [here](https://medium.com/solana-labs/why-solana-8c927d58ba06).&#x20;
